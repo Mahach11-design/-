@@ -1,0 +1,3 @@
+pyTelegramBotAPI==4.14.0
+Telethon==1.32.1
+googletrans==3.1.0a0 
